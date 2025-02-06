@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anso-Mian
+- 👋 Hi, I’m @Anso
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning to program
 - 💞️ I’m looking to collaborate on Tech
