@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anso
-- 👀 I’m interested in IT
+- 👀 I’m interested in Computers
 - 🌱 I’m currently learning to program
 - 💞️ I’m looking to collaborate on Tech
 
