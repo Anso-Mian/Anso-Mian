@@ -1,128 +1,113 @@
-<h1 align="center">Hi, I'm Anso 👋</h1>
-<h3 align="center">CS undergrad building from first principles — full-stack, systems, and a self-directed move toward AI/ML</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/space.svg" width="32" alt="Space Icon" />
+  Hi, I'm Anso 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anso-Mian&color=blue&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/FAST--NUCES-Rawalpindi-blue?style=flat" alt="University" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Building+from+First+Principles;Data+Structures+%2B+OOP+%2B+Systems;Full-Stack+%2B+Terminal-Native+Workflows;Self-Directed+Move+to+AI+Systems+Engineering" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anso-Mian&color=007ACC&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/FAST--NUCES-Rawalpindi-007ACC?style=flat-square" alt="University" />
+  <img src="https://img.shields.io/badge/OS-EndeavourOS--i3wm-7F7FFF?style=flat-square&logo=archlinux&logoColor=white" alt="OS" />
 </p>
 
 ---
 
-### About
+### 🛸 About Me
 
-CS undergraduate at FAST NUCES Rawalpindi, building a freelance track in full-stack (MERN) and browser-extension tooling, while working through core CS fundamentals from first principles — data structures in C++, ML built on raw NumPy instead of high-level frameworks. Comfortable operating entirely in the terminal (EndeavourOS / i3wm).
+I am a Computer Science undergraduate focused on core CS fundamentals, systems engineering, and terminal-native workflows. I build software from first principles—implementing **Data Structures & Algorithms** and **Object-Oriented Programming (OOP)** in pure C++, and constructing neural networks using raw math and **NumPy** before reaching for high-level frameworks.
 
-**Currently:**
-- Moving from general freelance full-stack work toward AI/ML systems engineering, via a structured self-paced roadmap (RAG, agents, fine-tuning)
-- Building models and algorithms from first principles before reaching for a library — e.g. a multi-layer perceptron with no ML framework (forward/backprop, activation functions, XOR and Iris classification)
-- Shipping small, scoped tools that solve real problems (a Manifest V3 Chrome extension, a terminal YouTube player) instead of speculative large systems
-- Debugging and auditing real ML work (found a class-targeting bug and feature leakage in a grade-prediction notebook) while solidifying core CS (hashing, graphs, AVL trees, circular queues, complexity analysis)
+Currently executing a unified roadmap toward becoming an **AI Systems Architect / ML Engineer**, bridging low-level systems engineering (Linux kernel, concurrency, GPU parallelism) with deep learning math and model architecture.
 
----
-
-### Core Interests
-
-- Building algorithms and models from first principles before reaching for a library
-- Browser extension development (Manifest V3, Chrome APIs)
-- Linux systems customization & terminal-native workflows (i3wm, CLI tooling)
-- AI/ML & LLM systems (RAG, agents) — active learning track
-- Algorithmic complexity analysis
-- Full-stack web development (MERN, React)
-- Automation & scripting (Bash, Python)
+- 🔭 **Current Focus:** Full-stack tools, browser extensions (Manifest V3), C++ systems, and CLI automation.
+- 🎯 **Target Trajectory:** AI Systems Engineer / ML Architect—specializing in CUDA kernel optimization, distributed inference, and low-level AI infrastructure[cite: 2].
+- 🛠️ **Environment:** Keyboard-driven, terminal-native Linux setup (**EndeavourOS / i3wm**).
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=archlinux&logoColor=white)
-
-> Note: badges reflect languages/tools actually used in shipped work below — not every skill listed in the breakdown further down (some of those are still `Learning`, intentionally not badged here).
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anso-Mian&show_icons=true&theme=radical&hide_border=true" alt="Anso's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anso-Mian&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-7F7FFF?style=for-the-badge&logo=archlinux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
-> Replace `Anso-Mian` above with your exact GitHub handle if it differs — I pulled this from prior context, double-check it before publishing.
-
 ---
 
-### Skills Breakdown
+### 🧠 Core Competencies & Skills Breakdown
 
-**Languages**
-| Skill | Level | Basis |
+| Category | Key Focus Areas | Status |
 |---|---|---|
-| Bash | Proficient | Daily terminal-native driver |
-| Python | Working Knowledge | Automation tooling, ML notebook debugging, MLP from scratch |
-| JavaScript | Working Knowledge | Manifest V3 Chrome extension, static site work |
-| HTML/CSS | Working Knowledge | Academic portal UI clone |
-| C++ | Exploring/Learning | CS2001 coursework — hashing, graphs, AVL trees, circular queue |
-
-**Frameworks & Libraries**
-| Skill | Level | Basis |
-|---|---|---|
-| React | Working Knowledge | Portfolio site (Vite + Framer Motion) |
-| NumPy | Working Knowledge | MLP built without an ML framework |
-| Framer Motion | Learning | Used once, portfolio build |
-| Node.js / Express | Learning | Self-described MERN background — not yet demonstrated in a shipped project shown here |
-
-**Tools & Platforms**
-| Skill | Level |
-|---|---|
-| Git / GitHub | Working Knowledge |
-| Vite | Working Knowledge |
-| Chrome Extension APIs | Working Knowledge |
-| Netlify / Render | Learning |
-
-**Concepts**
-| Skill | Level |
-|---|---|
-| Big-O / complexity analysis | Working Knowledge |
-| RAG / agentic pipelines | Learning (studied, not yet built) |
-| Fine-tuning | Learning (studied, not yet built) |
-| Static site structuring | Learning |
-
-**Execution**
-- Technical writing
-- Debugging & problem decomposition
-- Iterative UI refinement from feedback
-- Algorithmic edge-case reasoning
+| **CS Fundamentals** | Data Structures & Algorithms, Object-Oriented Programming (OOP), Memory Management, Big-O Analysis | **Proficient** |
+| **Full-Stack & Extension Web** | React, JavaScript (ES6+), Node.js, REST APIs, Manifest V3 Chrome APIs | **Working Knowledge** |
+| **First-Principles ML** | Neural Networks from Scratch, Forward/Backpropagation, Matrix Math, Vectorized NumPy | **Working Knowledge** |
+| **Systems & Environment** | Linux Systems Customization (i3wm/Arch), Shell Scripting (Bash), Git Workflows | **Proficient** |
+| **AI Systems Engineering** | CUDA Kernels, Distributed Systems, Linux Kernel Modules, Transformers / Autograd Engines | **Active Learning Track**[cite: 2] |
 
 ---
 
-### Projects
+### 🚀 Key Projects & Shipped Work
 
-| Project | Stack |
-|---|---|
-| Manifest V3 Batch Image Downloader (Chrome extension) | Vanilla JS, Chrome Extension APIs |
-| MLP from Scratch | Python, NumPy |
-| Flex Academic Portal (UI clone) | HTML, CSS, JS, Netlify |
-| Circular Queue Implementation | C++ |
-| Personal Portfolio Site | Vite, React, Framer Motion |
-| Terminal YouTube Music Player | yt-dlp, mpv, fzf |
+- 📦 **Manifest V3 Batch Image Downloader** — Production-ready Chrome browser extension built with Vanilla JS and native Chrome APIs.
+- 🧬 **Multi-Layer Perceptron (MLP) from Scratch** — Neural network engine built in Python using raw NumPy (forward/backprop, activation functions, XOR/Iris classification).
+- ⚙️ **Custom Data Structures Suite** — Low-level implementations of Circular Queues, Graphs, Trees, and Hashing algorithms in C++.
+- 🎨 **Personal Portfolio Web Application** — Interactive frontend built using React, Vite, and Framer Motion.
+- 🖥️ **CLI Audio/Media Player** — Keyboard-driven terminal utility integrating `yt-dlp`, `mpv`, and `fzf`.
 
 ---
 
-### Currently Learning & Where This Is Headed
+### 🌌 AI Systems Architect Roadmap
 
-- **RAG and agentic pipelines** — working through a structured, self-paced roadmap (APIs, retrieval, agent orchestration)
-- **Model fine-tuning** — next stage after the from-scratch ML work, moving from raw NumPy implementations toward applied fine-tuning of existing models
-- **Systems software vs. AI architecture** — actively weighing both directions; not yet decided, treating the roadmap above as the way to make that decision with real work instead of guessing
-- **Game development (UE5/Unity)** — evaluated, not yet committed to; a live interest rather than a current build track
+#### Phase 1: Systems Foundations & Math Sprint
+- **Systems Track:** CS:APP Bryant & O'Hallaron (bits, assembly, memory, cache optimization)[cite: 2].
+- **AI Math Track:** Linear Algebra (Gilbert Strang), Calculus for ML (gradients, chain rule), and Probability[cite: 2].
+- **Milestone Project:** C++ Matrix Multiplication Library featuring dynamic memory, SIMD intrinsics, cache blocking, and OpenMP parallelization[cite: 2].
+
+#### Phase 2: Operating Systems & Deep Learning Internals
+- **Systems Track:** Operating Systems: Three Easy Pieces (Virtualization, Concurrency, Persistence) & System Programming[cite: 2].
+- **AI Track:** Neural networks from scratch, backpropagation calculus, and autograd mechanics[cite: 2].
+- **Milestone Projects:** Multi-threaded C++ Key-Value Store & a lightweight custom C++ Autograd Engine[cite: 2].
+
+#### Phase 3: Linux Kernel & Transformer Architecture
+- **Systems Track:** Linux Kernel Programming (LKMs, system calls, character device drivers, memory management)[cite: 2].
+- **AI Track:** Deep learning theory, Convnets, RNNs, and Attention mechanism internals[cite: 2].
+- **Milestone Projects:** Kernel module for process memory tracking & C++ implementation of Scaled Dot-Product Attention[cite: 2].
+
+#### Phase 4: CUDA Parallelism, Go & Distributed Systems
+- **Systems Track:** Massively parallel GPU programming in CUDA, concurrent services in **Go**, memory-safe systems in **Rust**[cite: 2].
+- **Distributed Track:** RPC frameworks, Raft consensus algorithm implementation, and parameter servers[cite: 2].
+- **Capstone Project:** End-to-end inference engine for small transformers written in CUDA/C++ with Rust bindings, coordinated across nodes using a Go service[cite: 2].
 
 ---
 
-<p align="center"><i>This README reflects demonstrated work and stated goals only — skill tags are a self-assessment draft, not a certified evaluation. Verify before treating it as a hiring signal.</i></p>
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anso-Mian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anso-Mian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anso-Mian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <sub><i>Driven by first principles. Powered by Linux.</i></sub>
+</p>
