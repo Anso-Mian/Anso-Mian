@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/space.svg" width="32" alt="Space Icon" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/space.svg" width="35" alt="Space Icon" />
   Hi, I'm Anso 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" />
 </h1>
 
 <p align="center">
@@ -11,12 +11,16 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXFiZjlsdmV2ZWtzbnE1eDR2dmk1b2EydWtiMDF4YzNscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKTDn976rzVgky4/giphy.gif" width="130" alt="Alien Animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anso-Mian&color=007ACC&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/FAST--NUCES-Rawalpindi-007ACC?style=flat-square" alt="University" />
   <img src="https://img.shields.io/badge/OS-EndeavourOS--i3wm-7F7FFF?style=flat-square&logo=archlinux&logoColor=white" alt="OS" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
 ### 🛸 About Me
 
@@ -28,7 +32,7 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 - 🎯 **Target Trajectory:** AI Systems Engineer / ML Architect—specializing in CUDA kernel optimization, distributed inference, and low-level AI infrastructure[cite: 2].
 - 🛠️ **Environment:** Keyboard-driven, terminal-native Linux setup (**EndeavourOS / i3wm**).
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
 ### 🛠 Tech Stack
 
@@ -47,7 +51,7 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
 ### 🧠 Core Competencies & Skills Breakdown
 
@@ -59,7 +63,7 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 | **Systems & Environment** | Linux Systems Customization (i3wm/Arch), Shell Scripting (Bash), Git Workflows | **Proficient** |
 | **AI Systems Engineering** | CUDA Kernels, Distributed Systems, Linux Kernel Modules, Transformers / Autograd Engines | **Active Learning Track**[cite: 2] |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
 ### 🚀 Key Projects & Shipped Work
 
@@ -69,7 +73,7 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 - 🎨 **Personal Portfolio Web Application** — Interactive frontend built using React, Vite, and Framer Motion.
 - 🖥️ **CLI Audio/Media Player** — Keyboard-driven terminal utility integrating `yt-dlp`, `mpv`, and `fzf`.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
 ### 🌌 AI Systems Architect Roadmap
 
@@ -93,13 +97,21 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 - **Distributed Track:** RPC frameworks, Raft consensus algorithm implementation, and parameter servers[cite: 2].
 - **Capstone Project:** End-to-end inference engine for small transformers written in CUDA/C++ with Rust bindings, coordinated across nodes using a Go service[cite: 2].
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anso-Mian/Anso-Mian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anso-Mian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anso-Mian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Anso-Mian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
