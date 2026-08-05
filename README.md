@@ -15,15 +15,17 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" width="130" alt="Mythical Markhor" />
 </p>
 
+<!-- Live Portfolio Badge Button -->
+<p align="center">
+  <a href="https://portfolioanso.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfolioanso.netlify.app-007ACC?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anso-Mian&color=007ACC&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/FAST--NUCES-Rawalpindi-007ACC?style=flat-square" alt="University" />
   <img src="https://img.shields.io/badge/OS-EndeavourOS--i3wm-7F7FFF?style=flat-square&logo=archlinux&logoColor=white" alt="OS" />
-</p>
-
-<!-- GitHub Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anso-Mian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
@@ -37,8 +39,6 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 - 🔭 **Current Focus:** Full-stack tools, browser extensions (Manifest V3), C++ systems, and CLI automation.
 - 🎯 **Target Trajectory:** AI Systems Engineer / ML Architect—specializing in CUDA kernel optimization, distributed inference, and low-level AI infrastructure.
 - 🛠️ **Environment:** Keyboard-driven, terminal-native Linux setup (**EndeavourOS / i3wm**).
-
-**Portfolio Link:** <p align="center"> https://portfolioanso.netlify.app/ </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
