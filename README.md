@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<!-- Mythical Markhor Header Badge -->
+<!-- Animated Mythical Markhor Display -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%90%90_Mythical_Markhor-AI_Systems_Architect-7F7FFF?style=for-the-badge&logoColor=white" alt="Mythical Markhor Badge" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd6aXF5N3F6ZHB6a2Ixc2tzOHR5bGFvZ28ybzlsY29qejF6bnh5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlSnoXy4fA3x30I/giphy.gif" width="140" alt="Animated Mythical Goat/Markhor" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 I am a Computer Science undergraduate focused on core CS fundamentals, systems engineering, and terminal-native workflows. I build software from first principles—implementing **Data Structures & Algorithms** and **Object-Oriented Programming (OOP)** in pure C++, and constructing neural networks using raw math and **NumPy** before reaching for high-level frameworks.
 
-Currently executing a unified roadmap toward becoming an **AI Systems Architect / ML Engineer**, bridging low-level systems engineering (Linux kernel, concurrency, GPU parallelism) with deep learning math and model architecture.
+Currently executing a unified roadmap toward becoming an **AI Systems Architect / ML Engineer**, bridging low-level systems engineering (Linux kernel, concurrency, GPU parallelism) with deep learning math and model architecture[cite: 2].
 
 - 🔭 **Current Focus:** Full-stack tools, browser extensions (Manifest V3), C++ systems, and CLI automation.
 - 🎯 **Target Trajectory:** AI Systems Engineer / ML Architect—specializing in CUDA kernel optimization, distributed inference, and low-level AI infrastructure[cite: 2].
@@ -106,45 +106,8 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anso-Mian&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+---
 
-### 🐐 Mythical Markhor Scroll Component (For React Portfolio Website)
-
-```jsx
-// React + Framer Motion component to drop into your portfolio site
-import React from 'react';
-import { motion, useScroll, useTransform } from 'framer-motion';
-
-export const ScrollingMythicalMarkhor = () => {
-  const { scrollYProgress } = useScroll();
-
-  // Moves the Markhor horizontally from 5% to 85% across the screen as you scroll down
-  const xPosition = useTransform(scrollYProgress, [0, 1], ['5vw', '85vw']);
-  // Creates a floating vertical bounce effect
-  const yPosition = useTransform(scrollYProgress, [0, 0.5, 1], [0, -18, 0]);
-  // Subtle rotation as it travels
-  const rotate = useTransform(scrollYProgress, [0, 1], [-10, 10]);
-
-  return (
-    <motion.div
-      style={{
-        position: 'fixed',
-        bottom: '24px',
-        left: xPosition,
-        y: yPosition,
-        rotate: rotate,
-        zIndex: 9999,
-        pointerEvents: 'none',
-      }}
-    >
-      <div style={{ position: 'relative', display: 'inline-block' }}>
-        <span style={{ fontSize: '3.2rem', filter: 'drop-shadow(0 0 14px #7F7FFF)' }}>
-          🐐
-        </span>
-        <span style={{ position: 'absolute', top: '-8px', right: '-8px', fontSize: '1.4rem' }}>
-          ✨
-        </span>
-      </div>
-    </motion.div>
-  );
-};
+<p align="center">
+  <sub><i>Driven by first principles. Guarded by the Mythical Markhor. Powered by Linux.</i></sub>
+</p>
