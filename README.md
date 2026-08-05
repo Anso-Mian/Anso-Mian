@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/space.svg" width="35" alt="Space Icon" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="40" alt="Ringed Planet" />
   Hi, I'm Anso 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" />
 </h1>
@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<!-- Animated Mythical Markhor Display -->
+<!-- Animated 3D Mythical Markhor Image (Hosted directly on GitHub CDN) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd6aXF5N3F6ZHB6a2Ixc2tzOHR5bGFvZ28ybzlsY29qejF6bnh5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlSnoXy4fA3x30I/giphy.gif" width="140" alt="Animated Mythical Goat/Markhor" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" width="130" alt="Mythical Markhor" />
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@
 
 I am a Computer Science undergraduate focused on core CS fundamentals, systems engineering, and terminal-native workflows. I build software from first principles—implementing **Data Structures & Algorithms** and **Object-Oriented Programming (OOP)** in pure C++, and constructing neural networks using raw math and **NumPy** before reaching for high-level frameworks.
 
-Currently executing a unified roadmap toward becoming an **AI Systems Architect / ML Engineer**, bridging low-level systems engineering (Linux kernel, concurrency, GPU parallelism) with deep learning math and model architecture[cite: 2].
+Currently executing a unified roadmap toward becoming an **AI Systems Architect / ML Engineer**, bridging low-level systems engineering (Linux kernel, concurrency, GPU parallelism) with deep learning math and model architecture.
 
 - 🔭 **Current Focus:** Full-stack tools, browser extensions (Manifest V3), C++ systems, and CLI automation.
-- 🎯 **Target Trajectory:** AI Systems Engineer / ML Architect—specializing in CUDA kernel optimization, distributed inference, and low-level AI infrastructure[cite: 2].
+- 🎯 **Target Trajectory:** AI Systems Engineer / ML Architect—specializing in CUDA kernel optimization, distributed inference, and low-level AI infrastructure.
 - 🛠️ **Environment:** Keyboard-driven, terminal-native Linux setup (**EndeavourOS / i3wm**).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
@@ -62,7 +62,7 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 | **Full-Stack & Extension Web** | React, JavaScript (ES6+), Node.js, REST APIs, Manifest V3 Chrome APIs | **Working Knowledge** |
 | **First-Principles ML** | Neural Networks from Scratch, Forward/Backpropagation, Matrix Math, Vectorized NumPy | **Working Knowledge** |
 | **Systems & Environment** | Linux Systems Customization (i3wm/Arch), Shell Scripting (Bash), Git Workflows | **Proficient** |
-| **AI Systems Engineering** | CUDA Kernels, Distributed Systems, Linux Kernel Modules, Transformers / Autograd Engines | **Active Learning Track**[cite: 2] |
+| **AI Systems Engineering** | CUDA Kernels, Distributed Systems, Linux Kernel Modules, Transformers / Autograd Engines | **Active Learning Track** |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
@@ -79,24 +79,24 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 ### 🌌 AI Systems Architect Roadmap
 
 #### Phase 1: Systems Foundations & Math Sprint
-- **Systems Track:** CS:APP Bryant & O'Hallaron (bits, assembly, memory, cache optimization)[cite: 2].
-- **AI Math Track:** Linear Algebra (Gilbert Strang), Calculus for ML (gradients, chain rule), and Probability[cite: 2].
-- **Milestone Project:** C++ Matrix Multiplication Library featuring dynamic memory, SIMD intrinsics, cache blocking, and OpenMP parallelization[cite: 2].
+- **Systems Track:** CS:APP Bryant & O'Hallaron (bits, assembly, memory, cache optimization).
+- **AI Math Track:** Linear Algebra (Gilbert Strang), Calculus for ML (gradients, chain rule), and Probability.
+- **Milestone Project:** C++ Matrix Multiplication Library featuring dynamic memory, SIMD intrinsics, cache blocking, and OpenMP parallelization.
 
 #### Phase 2: Operating Systems & Deep Learning Internals
-- **Systems Track:** Operating Systems: Three Easy Pieces (Virtualization, Concurrency, Persistence) & System Programming[cite: 2].
-- **AI Track:** Neural networks from scratch, backpropagation calculus, and autograd mechanics[cite: 2].
-- **Milestone Projects:** Multi-threaded C++ Key-Value Store & a lightweight custom C++ Autograd Engine[cite: 2].
+- **Systems Track:** Operating Systems: Three Easy Pieces (Virtualization, Concurrency, Persistence) & System Programming.
+- **AI Track:** Neural networks from scratch, backpropagation calculus, and autograd mechanics.
+- **Milestone Projects:** Multi-threaded C++ Key-Value Store & a lightweight custom C++ Autograd Engine.
 
 #### Phase 3: Linux Kernel & Transformer Architecture
-- **Systems Track:** Linux Kernel Programming (LKMs, system calls, character device drivers, memory management)[cite: 2].
-- **AI Track:** Deep learning theory, Convnets, RNNs, and Attention mechanism internals[cite: 2].
-- **Milestone Projects:** Kernel module for process memory tracking & C++ implementation of Scaled Dot-Product Attention[cite: 2].
+- **Systems Track:** Linux Kernel Programming (LKMs, system calls, character device drivers, memory management).
+- **AI Track:** Deep learning theory, Convnets, RNNs, and Attention mechanism internals.
+- **Milestone Projects:** Kernel module for process memory tracking & C++ implementation of Scaled Dot-Product Attention.
 
 #### Phase 4: CUDA Parallelism, Go & Distributed Systems
-- **Systems Track:** Massively parallel GPU programming in CUDA, concurrent services in **Go**, memory-safe systems in **Rust**[cite: 2].
-- **Distributed Track:** RPC frameworks, Raft consensus algorithm implementation, and parameter servers[cite: 2].
-- **Capstone Project:** End-to-end inference engine for small transformers written in CUDA/C++ with Rust bindings, coordinated across nodes using a Go service[cite: 2].
+- **Systems Track:** Massively parallel GPU programming in CUDA, concurrent services in **Go**, memory-safe systems in **Rust**.
+- **Distributed Track:** RPC frameworks, Raft consensus algorithm implementation, and parameter servers.
+- **Capstone Project:** End-to-end inference engine for small transformers written in CUDA/C++ with Rust bindings, coordinated across nodes using a Go service.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
