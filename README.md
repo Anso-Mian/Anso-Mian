@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- Animated 3D Mythical Markhor Image (Hosted directly on GitHub CDN) -->
+<!-- Animated 3D Mythical Markhor Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" width="130" alt="Mythical Markhor" />
 </p>
@@ -19,6 +19,11 @@
   <img src="https://komarev.com/ghpvc/?username=Anso-Mian&color=007ACC&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/FAST--NUCES-Rawalpindi-007ACC?style=flat-square" alt="University" />
   <img src="https://img.shields.io/badge/OS-EndeavourOS--i3wm-7F7FFF?style=flat-square&logo=archlinux&logoColor=white" alt="OS" />
+</p>
+
+<!-- GitHub Profile Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anso-Mian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
@@ -97,6 +102,14 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 - **Systems Track:** Massively parallel GPU programming in CUDA, concurrent services in **Go**, memory-safe systems in **Rust**.
 - **Distributed Track:** RPC frameworks, Raft consensus algorithm implementation, and parameter servers.
 - **Capstone Project:** End-to-end inference engine for small transformers written in CUDA/C++ with Rust bindings, coordinated across nodes using a Go service.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+
+### ⚡ Terminal Humor
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bg_color=1a1b26&show_border=false" alt="Developer Joke" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
