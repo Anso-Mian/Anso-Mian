@@ -26,7 +26,7 @@
 
 I am a Computer Science undergraduate focused on core CS fundamentals, systems engineering, and terminal-native workflows. I build software from first principles—implementing **Data Structures & Algorithms** and **Object-Oriented Programming (OOP)** in pure C++, and constructing neural networks using raw math and **NumPy** before reaching for high-level frameworks.
 
-Currently executing a unified roadmap toward becoming an **AI Systems Architect / ML Engineer**, bridging low-level systems engineering (Linux kernel, concurrency, GPU parallelism) with deep learning math and model architecture.
+Currently executing a unified roadmap toward becoming an **AI Systems Architect / ML Engineer**, bridging low-level systems engineering (Linux kernel, concurrency, GPU parallelism) with deep learning math and model architecture[cite: 2].
 
 - 🔭 **Current Focus:** Full-stack tools, browser extensions (Manifest V3), C++ systems, and CLI automation.
 - 🎯 **Target Trajectory:** AI Systems Engineer / ML Architect—specializing in CUDA kernel optimization, distributed inference, and low-level AI infrastructure[cite: 2].
@@ -99,10 +99,10 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
-### 🐍 Contribution Graph
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anso-Mian/Anso-Mian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anso-Mian&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
@@ -110,11 +110,7 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anso-Mian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Anso-Mian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anso-Mian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anso-Mian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
