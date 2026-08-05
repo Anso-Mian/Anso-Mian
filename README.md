@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<!-- Animated 3D Mythical Markhor Image -->
+<!-- Animated 3D Fierce Wolf -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" width="130" alt="Mythical Markhor" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" width="140" alt="Fierce Wolf" />
 </p>
 
 <!-- Live Portfolio Badge Button -->
@@ -124,5 +124,5 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 ---
 
 <p align="center">
-  <sub><i>Driven by first principles. Guarded by the Mythical Markhor. Powered by Linux.</i></sub>
+  <sub><i>Driven by first principles. Lone Wolf mindset. Powered by Linux.</i></sub>
 </p>
