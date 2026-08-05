@@ -68,7 +68,7 @@ Currently executing a unified roadmap toward becoming an **AI Systems Architect 
 
 ### 🚀 Key Projects & Shipped Work
 
-- 📦 **Manifest V3 Batch Image Downloader** — Production-ready Chrome browser extension built with Vanilla JS and native Chrome APIs.
+- 📦 **Extensions and Chrome Tools** — Production-ready Chrome browser extension built with Vanilla JS and native Chrome APIs.
 - 🧬 **Multi-Layer Perceptron (MLP) from Scratch** — Neural network engine built in Python using raw NumPy (forward/backprop, activation functions, XOR/Iris classification).
 - ⚙️ **Custom Data Structures Suite** — Low-level implementations of Circular Queues, Graphs, Trees, and Hashing algorithms in C++.
 - 🎨 **Personal Portfolio Web Application** — Interactive frontend built using React, Vite, and Framer Motion.
